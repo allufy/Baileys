@@ -1,6 +1,6 @@
 {
-  "name": "@alluffyofficial/baileys",
-  "version": "9.0.7",
+  "name": "@alluffyofficial/Baileys",
+  "version": "8.0.8",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
     "whatsapp",
